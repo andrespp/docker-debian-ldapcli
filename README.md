@@ -24,6 +24,6 @@ bindpw secret-password
 ```
 
 
-# Avilable variables
+# Available variables
 
 Todo 
