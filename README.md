@@ -1,4 +1,4 @@
-Docker phpVirtualBox
+andrespp/debian-ldap 
 ====================
 
 # Introduction
@@ -23,9 +23,7 @@ binddn uid=linux,ou=system,dc=base
 bindpw secret-password
 ```
 
-# User Feedback
-
-## Issues
+# Issues
 
 If you have any problems with or questions about this image, please contact me
 through a [GitHub issue](https://github.com/andrespp/docker-debian-ldapcli/issues).
