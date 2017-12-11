@@ -10,7 +10,7 @@ This image is based on `FROM debian:jessie`.
 # Quick start
 
 ```bash
-$ docker container run --rm -it -v $(pwd)/libnss-ldap.conf:/etc/libnss-ldap.conf:ro andrespp/debian-ldapcli bash
+$ docker container run --rm -it -v $(pwd)/libnss-ldap.conf:/etc/libnss-ldap.conf:ro andrespp/debian-ldap bash
 ```
 
 Where `./libnss-ldap.conf` is like:
